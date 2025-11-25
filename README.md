@@ -1,3 +1,5 @@
 # seacms_vul
-password=ajkbduqabsd123
+
 MYSQL_PASSWORD=alzfiabd123
+
+REDIS_PASSWORD=ajkbduqabsd123
