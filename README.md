@@ -1,1 +1,3 @@
 # seacms_vul
+password=ajkbduqabsd123
+MYSQL_PASSWORD=alzfiabd123
